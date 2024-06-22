@@ -1,10 +1,19 @@
-export default function Home() {
+import { getAllTodos } from "../../api";
+import AddTask from "./components/AddTask";
+import ToDoList from "./components/ToDoList";
+
+export default async function Home() {
+  const tasks = await getAllTodos();
+
   return (
-    <section className='py-24'>
-      <div className='container'>
-        <h1 className='text-3xl font-bold'>Next JS Starter</h1>
+    <main className="max-w-4xl mx-auto mt-4">
+      <div className="text-center my-5 flex flex-col gap-4">
+        <h1 className="text-2xl font-bold">To Do App</h1>
+        <AddTask />
       </div>
-    </section>
+
+      <ToDoList tasks={tasks}/>
+    </main>
   )
 }
 
