@@ -1,31 +1,19 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Go Shopping"
+      "id": "29c23835-ebea-4996-94a9-7d4494016c35",
+      "text": "Go to the gym"
     },
     {
-      "id": "2",
-      "text": "Cook Dinner"
+      "id": "0de07cef-128e-4516-b9c8-5c94633b985c",
+      "text": "Learn some more Java"
     },
     {
-      "id": "3",
-      "text": "Go to gym"
+      "id": "7fbd3859-1976-4191-adf5-d9f0fe00c0a9",
+      "text": "Work on personal project"
     },
     {
-      "id": "3",
-      "text": "Do Laundry"
-    },
-    {
-      "id": "66079551-fbff-4ccf-8c91-85f2da60928f",
-      "text": "Learn Python"
-    },
-    {
-      "id": "4d12fcec-9065-490b-ac7d-b3697cbf30c5",
-      "text": "See Taro"
-    },
-    {
-      "id": "c25f34f3-3a6d-4bd6-b0c1-f1bcbee6e2e4",
+      "id": "3ce4c67e-f507-4671-95df-bc00619f5700",
       "text": "Grind some LeetCode"
     }
   ]
