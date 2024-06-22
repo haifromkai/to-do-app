@@ -18,11 +18,15 @@
     },
     {
       "id": "66079551-fbff-4ccf-8c91-85f2da60928f",
-      "text": "Learn Java"
+      "text": "Learn Python"
     },
     {
       "id": "4d12fcec-9065-490b-ac7d-b3697cbf30c5",
       "text": "See Taro"
+    },
+    {
+      "id": "c25f34f3-3a6d-4bd6-b0c1-f1bcbee6e2e4",
+      "text": "Grind some LeetCode"
     }
   ]
 }
