@@ -7,7 +7,7 @@
         <li><a href = "#about-the-project">About the Project</a></li>
         <li><a href = "#built-with">Built With</a></li>
         <li><a href = "#installation">Installation</a></li>
-        <li><a href = "#progress">Progress</a></li>
+        <li><a href = "#features">Features</a></li>
         <li><a href = "#contact">Contact</a></li>
     </ol>
 </details>
@@ -26,16 +26,23 @@ Description: The To Do App is a simple tool that allows the user to add, edit, a
 [![TS][Typescript]][Typescript-url]
 [![JSON][JSON]][JSON-url]
 
-
 # Installation
 1. Clone the Repository
-2. Install all dependencies via Terminal > "npm install"
-3. Begin JSON server via Terminal > "npm run json-server"
-4. Run the development server via Terminal > "npm run dev"
-5. Open [http://localhost:3000](http://localhost:3000) with your browser
+2. Navigate to project directory
+3. Install all dependencies via Terminal > "npm install"
+4. Begin JSON server via Terminal > "npm run json-server"
+5. Run the development server via second Terminal > "npm run dev"
+6. Open [http://localhost:3000](http://localhost:3000) or corresponding port on your browser
 
-# Progress
-![Screenshot 2024-06-21 at 9 24 49 PM](https://github.com/haifromkai/to-do-app/assets/49883801/3730cbf8-225c-4562-ae19-529dfb559340)
+# Features
+### Adding a new task
+<img width="350" src="https://github.com/haifromkai/to-do-app/assets/49883801/937ab5f4-6cd4-4ee6-82bb-d03d592529c4" />
+
+### Editing an existing task
+<img width="350" src="https://github.com/haifromkai/to-do-app/assets/49883801/d8f5ec8a-cc7f-4ca7-97a5-15d10718356f" />
+
+### Deleting a task
+<img width="350" src="https://github.com/haifromkai/to-do-app/assets/49883801/4b4abae9-8d04-4fc0-81ef-c91e9e6b5eec" />
 
 # Contact
 Feel free to leave suggestions or ask questions about any part of the project! <br>
@@ -63,6 +70,3 @@ Project Link: https://github.com/haifromkai/to-do-app
 [TypeScript-url]: https://www.typescriptlang.org
 [JSON]: https://img.shields.io/badge/json_server-1b1b1b?style=for-the-badge&logo=json&logoColor=535353
 [JSON-url]: https://github.com/typicode/json-server
-
-
-
